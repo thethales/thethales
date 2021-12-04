@@ -10,6 +10,11 @@
                     margin: 0;
                 }
 
+                @font-face {
+                  font-family: Delicious;
+                  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css');
+                }
+                
                 .container {
                     width: 100%;
                     height: 100vh;
