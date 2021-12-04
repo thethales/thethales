@@ -11,7 +11,7 @@
                 }
 
                 @font-face {
-                  font-family: Delicious;
+                  font-family: Font Awesome;
                   src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css');
                 }
                 
